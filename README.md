@@ -1,3 +1,6 @@
 # Kaggle-Titanic-Classifier
-
-Using deep learning techniques, decision tree classifier and SVM attempt to solve problem
+Attempt to solve Titanic Classification problem using a variety of machine learning techniques: 
+  - Deep Learning 
+  - Decision Trees 
+  - Kmeans 
+  - Logistic Regression 
